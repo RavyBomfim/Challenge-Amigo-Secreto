@@ -64,7 +64,7 @@ Após ter adicionado todos os amigos, tendo cadastrando um por vez, clique no bo
 
 <h3>Atenção!</h3>
 
-O botão _**"Sortear Amigo"**_ sorteia apenas um amigo por vez.
+O botão _**"Sortear Amigo"**_ sorteia apenas o nome de um amigo por vez.
 
 <hr>
 
