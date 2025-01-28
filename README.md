@@ -10,7 +10,7 @@ _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
 
 ### Tópicos
 
-* [Descrição do projeto](descrição-do-projeto) 
+* [Descrição do projeto](#descrição-do-projeto) 
 * [Funcionalidades](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 * [Ferramentas utilizadas](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 * [Acesso ao projeto](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
