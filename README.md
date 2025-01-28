@@ -1,4 +1,3 @@
-
 # Challenge AmigoSecreto
 
 _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
@@ -9,16 +8,25 @@ _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
   
 ![Image](https://github.com/user-attachments/assets/588fb746-f6ef-4b63-86be-073ab9c9e4f7)
 
-### Descrição do projeto
+* [Descrição do projeto](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) 
+* [Funcionalidades](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+* [Ferramentas utilizadas](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+* [Acesso ao projeto](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+* [Como utilizá-lo](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+* [Desenvolvedor](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-### Funcionalidades
+### Índice
 
-### Ferramentas utilizadas
+## Descrição do projeto
 
-### Acesso ao projeto
+## Funcionalidades
 
-### Como utilizá-lo
+## Ferramentas utilizadas
 
-### Desenvolvedor
+## Acesso ao projeto
+
+## Como utilizá-lo
+
+## Desenvolvedor
 
 
