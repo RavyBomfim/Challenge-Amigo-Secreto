@@ -17,9 +17,9 @@ _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
 * [Como utilizá-lo](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 * [Desenvolvedor](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-## Descrição do projeto
+<h2 id="descrição-do-projeto">Descrição do projeto</h2>
 
-## Funcionalidades
+<h2>Funcionalidades</h2>
 
 ## Ferramentas utilizadas
 
