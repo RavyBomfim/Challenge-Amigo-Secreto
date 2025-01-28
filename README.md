@@ -11,22 +11,22 @@ _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
 ### Tópicos
 
 * [Descrição do projeto](#descrição-do-projeto) 
-* [Funcionalidades](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-* [Ferramentas utilizadas](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-* [Acesso ao projeto](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-* [Como utilizá-lo](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-* [Desenvolvedor](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+* [Funcionalidades](#funcionalidades)
+* [Ferramentas utilizadas](#ferramentas-utilizadas)
+* [Acesso ao projeto](#acesso-ao-projeto)
+* [Como utilizá-lo](#como-utilizar)
+* [Desenvolvedor](#desenvolvedora)
 
 <h2 id="descrição-do-projeto">Descrição do projeto</h2>
 
-<h2>Funcionalidades</h2>
+<h2 id="funcionalidades">Funcionalidades</h2>
 
-## Ferramentas utilizadas
+<h2 id="ferramentas-utilizadas">Ferramentas utilizadas</h2>
 
-## Acesso ao projeto
+<h2 id="acesso-ao-projeto">Acesso ao projeto</h2>
 
-## Como utilizá-lo
+<h2 id="como-utilizar">Como utilizá-lo</h2>
 
-## Desenvolvedor
+<h2 id="desenvolvedora">Desenvolvedora</h2>
 
 
