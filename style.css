@@ -1,11 +1,16 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #5790be;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-text: var(--color-button-hover);
     --color-white: #FFFFFF;
+    --color-primary-hover: #3a719e;
+    --color-light: #6298c4;
+    --background-gradient: linear-gradient(to left, var(--color-button), var(--color-light), var(--color-button));
+    --button-gradient: linear-gradient(to left, var(--color-button), var(--color-button), var(--color-light));
+    --button-gradient-hover: linear-gradient(to left, var(--color-button-hover), var(--color-button-hover), var(--color-primary));
 }
 
 /* Estilos gerais */
@@ -18,6 +23,7 @@
 body {
     height: 100vh;
     background-color: var(--color-primary);
+    background: var(--background-gradient);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,7 +87,8 @@ body {
 
 .input-name {
     width: 100%;
-    padding: 10px;
+    padding-block: 10px;
+    padding-inline: 20px;
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
     font-size: 16px;
@@ -116,13 +123,17 @@ button {
 }
 
 .button-add {
-    background-color: var(--color-tertiary);
-    color: var(--color-text);
+    background-color: var(--color-primary);
+    background: linear-gradient(to left, var(--color-light), var(--color-light), var(--color-button));
+    color: var(--color-white);
     border-radius: 0 25px 25px 0;
+    transition: ease-in-out 0.2s;
+    margin-left: -5px;
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: var(--color-primary-hover);
+    background: linear-gradient(to left, var(--color-primary), var(--color-primary), var(--color-button-hover));
 }
 
 /* Listas */
@@ -134,12 +145,31 @@ ul {
     margin: 20px 0;
 }
 
+.name-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    max-width: 600px;
+}
+
+.name-list li {
+    background-color: var(--color-button);
+    color: var(--color-secondary);
+    padding-block: 7px;
+    padding-inline: 12px;
+    border-radius: 3px;
+}
+
 .result-list {
-    margin-top: 15px;
-    color: #05DF05;
+    margin-top: 10px;
+    color: var(--color-light);
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+}
+
+.result-list li {
+    margin-bottom: 10px;
 }
 
 /* Botão de sortear título */
@@ -150,6 +180,7 @@ ul {
     padding: 10px 40px;
     color: var(--color-white);
     background-color: var(--color-button);
+    background: var(--button-gradient);
     font-size: 16px;
 }
 
@@ -159,4 +190,5 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+    background: var(--button-gradient-hover);
 }
