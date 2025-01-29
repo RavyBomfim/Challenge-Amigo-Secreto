@@ -57,12 +57,12 @@ JavaScript - Linguagem de Programação
 <hr>
 
 
-<h2 id="como-utilizar">Como utilizá-lo</h2>
+<h2 id="como-utilizar">Como utilizá-lo❔</h2>
 
 <p>No campo de texto, digite o nome de um amigo e clique em **_"Adicionar"_** para cadastrar o nome digitado.
 Após ter adicionado todos os amigos, tendo cadastrando um por vez, clique no botão _**"Sortear Amigo"**_ para realizar os sorteios dos nomes.</p>
 
-<h3>Atenção!</h3>
+<h3> ⚠️Atenção!</h3>
 
 O botão _**"Sortear Amigo"**_ sorteia apenas o nome de um amigo por vez.
 
