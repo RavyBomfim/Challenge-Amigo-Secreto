@@ -15,7 +15,7 @@ _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Acesso ao projeto](#acesso-ao-projeto)
 * [Como utilizá-lo](#como-utilizar)
-* [Desenvolvedor](#desenvolvedora)
+* [Desenvolvedora](#desenvolvedora)
 
 <hr>
 
