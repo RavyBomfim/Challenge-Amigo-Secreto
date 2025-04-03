@@ -51,7 +51,7 @@ JavaScript - Linguagem de Programação
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo clicando nos links abaixo:<a/> <br>
 
-<a href="https://ravybomfim.github.io/Challenge-Amigo-Secreto/">Acessar página do projeto<a/> <br>
+- <a href="https://ravybomfim.github.io/Challenge-Amigo-Secreto/">Acessar página do projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/Challenge-Amigo-Secreto">Acessar o código fonte do projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/Challenge-Amigo-Secreto/archive/refs/heads/main.zip">Baixar Projeto<a/>
 
