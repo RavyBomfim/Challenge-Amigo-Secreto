@@ -2,7 +2,7 @@
 
 _**⬇️ Clique no botao abaixo para acessar a página do projeto.**_
 
-<a href="https://ravybomfim.github.io/Challenge-Amigo-Secreto/">
+<a href="https://ravybomfim.github.io/Challenge-Amigo-Secreto">
   <img src="https://github.com/user-attachments/assets/e68d7802-7123-4a7c-a063-f8c227e54f87" alt="Botão para acessar a página do projeto">
 <a/>
   
@@ -51,7 +51,7 @@ JavaScript - Linguagem de Programação
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo clicando nos links abaixo:<a/> <br>
 
-- <a href="https://ravybomfim.github.io/Challenge-Amigo-Secreto/">Acessar página do projeto<a/> <br>
+- <a href="https://ravybomfim.github.io/Challenge-Amigo-Secreto">Acessar página do projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/Challenge-Amigo-Secreto">Acessar o código fonte do projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/Challenge-Amigo-Secreto/archive/refs/heads/main.zip">Baixar Projeto<a/>
 
